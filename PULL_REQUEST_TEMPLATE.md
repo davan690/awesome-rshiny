@@ -2,7 +2,6 @@ For adding tutorials, packages, or apps
 ===========================================
 <!-- If you are making a pull request on the master branch, please resubmit your pull request using the dev-master branch. -->
 
-
 ##### What did you add to the README.md file?
 <!-- Make a detailed list of what you have added to the readme -->
 <!-- - X Tutorial - A tutorial for rshiny -->
